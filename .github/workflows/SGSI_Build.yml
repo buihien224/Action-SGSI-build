@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2031_A_1.19.18-update-full_1619161814.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'PD2031_A_1.19.18-update-full_1619161814.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'miui'
+        default: 'generic'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
