@@ -6,11 +6,11 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2031_A_1.19.18-update-full_1619161814.zip'
+        default: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'PD2031_A_1.19.18-update-full_1619161814.zip'
+        default: 'redfin-ota-spp2.210219.008-3d61e529.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
